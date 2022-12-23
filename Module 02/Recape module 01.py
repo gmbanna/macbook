@@ -1,0 +1,11 @@
+# print('Hello World')
+# print('jobaer','banna')
+# print('jobaer', 'banna', sep='--')
+
+# a = int(5.3)
+# print(a)
+# b = float(33)
+# print(b)
+# print(type(a), type(b))
+a = str(50)
+print(a, type(a))

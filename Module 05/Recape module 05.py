@@ -6,7 +6,7 @@
 # person.append(name)
 # person.append(age)
 # person.insert(1,gender)
-#
+
 # person.remove(age)
 # print(person)
 

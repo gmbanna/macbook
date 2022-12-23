@@ -1,0 +1,5 @@
+print('Jobaer Banna')
+print('My name is','Jobaer Banna')
+print('I am the course','instructor')
+print('Anata',' Parvez',' Tom crouse')
+print('banna','tuhin','tasfiya')
